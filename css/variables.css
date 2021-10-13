@@ -1,0 +1,13 @@
+:root {
+  --primary-color: #4452FE;
+  --secondary-one-color: #02E4C0;
+  --secondary-two-color: #112D57;
+  --first-text-color: #000000;
+  --second-text-color: #5C5C5C;
+  --light-text-color: #FFFFFF;
+  --dark-background: #181818;
+  --light-background: #FFFFFF;
+  --z-fixed: 1;
+}
+
+/*# sourceMappingURL=variables.css.map */

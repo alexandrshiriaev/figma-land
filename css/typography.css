@@ -1,0 +1,39 @@
+@font-face {
+    font-family: Graphik;
+    src: url('../assets/fonts/Graphik-Medium.woff');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('../assets/fonts/Graphik-Regular.woff');
+    font-weight: 400;
+}
+
+:root {
+    --body-font: 'Graphik', sans-serif;
+
+    --normal-font-size: 16px;
+    --h1-font-size: 5rem;
+    --h2-font-size: 3.25rem;
+    --h3-font-size: 1.25rem;
+    --subheading-font-size: 1.25rem;
+    --subtitle-font-size: 1rem;
+    --link-font-size: 1rem;
+    --paragraph-font-size: 1rem;
+    --menu-item-font-size: 1.875rem;
+    --btn-font-size: 1.0625rem;
+
+    --h1-line-height: 5.5rem;
+    --h2-line-height: 3.875rem;
+    --h3-line-height: 1.875rem;
+    --subheading-line-height: 1.875rem;
+    --subtitle-line-height: 1.5rem;
+    --link-line-height: 1.5rem;
+    --paragraph-line-height: 1.5rem;
+    --menu-item-line-height: 2.8125rem;
+    --btn-line-height: 1.5625rem;
+
+    --font-medium: 500;
+    --font-regular: 400;
+}
